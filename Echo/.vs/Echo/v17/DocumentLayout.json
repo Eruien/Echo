@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|c:\\users\\ogkim\\desktop\\unityproject\\echo\\echo\\echo\\qtesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|solutionrelative:echo\\qtesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43BE3605-1C43-4082-8FCE-FFA425ABC768}|EchoScripts\\EchoScripts.csproj|c:\\users\\ogkim\\desktop\\unityproject\\echo\\echo\\echoscripts\\characterecoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BE3605-1C43-4082-8FCE-FFA425ABC768}|EchoScripts\\EchoScripts.csproj|solutionrelative:echoscripts\\characterecoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|c:\\users\\ogkim\\desktop\\unityproject\\echo\\echo\\echo\\playernewinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|solutionrelative:echo\\playernewinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\QTESystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Echo\\QTESystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|c:\\users\\ogkim\\desktop\\unityproject\\echo\\echo\\echo\\playerinputmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|solutionrelative:echo\\playerinputmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\PlayerNewInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Echo\\PlayerNewInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|c:\\users\\ogkim\\desktop\\unityproject\\echo\\echo\\echo\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|solutionrelative:echo\\moveplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\PlayerInputMobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Echo\\PlayerInputMobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|c:\\users\\ogkim\\desktop\\unityproject\\echo\\echo\\echo\\keypadcollisioncheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|solutionrelative:echo\\keypadcollisioncheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\MovePlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Echo\\MovePlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|c:\\users\\ogkim\\desktop\\unityproject\\echo\\echo\\echo\\followparentpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|solutionrelative:echo\\followparentpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\KeypadCollisionCheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Echo\\KeypadCollisionCheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|c:\\users\\ogkim\\desktop\\unityproject\\echo\\echo\\echo\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|solutionrelative:echo\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\FollowParentPos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Echo\\FollowParentPos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|c:\\users\\ogkim\\desktop\\unityproject\\echo\\echo\\echo\\characterecoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|solutionrelative:echo\\characterecoevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\FollowCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Echo\\FollowCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\CharacterEcoEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Echo\\CharacterEcoEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "CharacterEcoEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\EchoScripts\\CharacterEcoEvent.cs",
+              "RelativeDocumentMoniker": "EchoScripts\\CharacterEcoEvent.cs",
+              "ToolTip": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\EchoScripts\\CharacterEcoEvent.cs",
+              "RelativeToolTip": "EchoScripts\\CharacterEcoEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:47:10.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PlayerNewInput.cs",
               "DocumentMoniker": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\PlayerNewInput.cs",
               "RelativeDocumentMoniker": "Echo\\PlayerNewInput.cs",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "Echo\\PlayerNewInput.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:44:08.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T13:44:08.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerInputMobile.cs",
               "DocumentMoniker": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\PlayerInputMobile.cs",
               "RelativeDocumentMoniker": "Echo\\PlayerInputMobile.cs",
@@ -67,12 +83,11 @@
               "RelativeToolTip": "Echo\\PlayerInputMobile.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:44:06.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T13:44:06.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MovePlayer.cs",
               "DocumentMoniker": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\MovePlayer.cs",
               "RelativeDocumentMoniker": "Echo\\MovePlayer.cs",
@@ -80,12 +95,11 @@
               "RelativeToolTip": "Echo\\MovePlayer.cs",
               "ViewState": "AQIAAKQAAAAAAAAAAAAkwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:43:52.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T13:43:52.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "KeypadCollisionCheck.cs",
               "DocumentMoniker": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\KeypadCollisionCheck.cs",
               "RelativeDocumentMoniker": "Echo\\KeypadCollisionCheck.cs",
@@ -93,12 +107,11 @@
               "RelativeToolTip": "Echo\\KeypadCollisionCheck.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAIwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:43:47.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T13:43:47.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FollowParentPos.cs",
               "DocumentMoniker": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\FollowParentPos.cs",
               "RelativeDocumentMoniker": "Echo\\FollowParentPos.cs",
@@ -106,12 +119,11 @@
               "RelativeToolTip": "Echo\\FollowParentPos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:43:44.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T13:43:44.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FollowCamera.cs",
               "DocumentMoniker": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\FollowCamera.cs",
               "RelativeDocumentMoniker": "Echo\\FollowCamera.cs",
@@ -119,25 +131,22 @@
               "RelativeToolTip": "Echo\\FollowCamera.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:43:37.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T13:43:37.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "QTESystem.cs",
               "DocumentMoniker": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\QTESystem.cs",
               "RelativeDocumentMoniker": "Echo\\QTESystem.cs",
               "ToolTip": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\QTESystem.cs",
               "RelativeToolTip": "Echo\\QTESystem.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:43:26.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T13:43:26.785Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CharacterEcoEvent.cs",
               "DocumentMoniker": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\CharacterEcoEvent.cs",
               "RelativeDocumentMoniker": "Echo\\CharacterEcoEvent.cs",
@@ -145,8 +154,7 @@
               "RelativeToolTip": "Echo\\CharacterEcoEvent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T13:43:19.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T13:43:19.693Z"
             }
           ]
         }
