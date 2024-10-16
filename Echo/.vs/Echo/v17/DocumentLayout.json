@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|c:\\users\\ogkim\\desktop\\unityproject\\echo\\echo\\echo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93482DEC-2FE9-410B-B333-7F9DC330F6CE}|Echo\\Echo.csproj|solutionrelative:echo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\Program.cs",
+              "RelativeDocumentMoniker": "Echo\\Program.cs",
+              "ToolTip": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\Program.cs",
+              "RelativeToolTip": "Echo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:38:52.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
