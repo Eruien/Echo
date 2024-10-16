@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Scripts\\Echo\\EchoScripts\\EchoScripts.csproj",
-      "projectName": "EchoScripts",
-      "projectPath": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Scripts\\Echo\\EchoScripts\\EchoScripts.csproj",
+      "projectUniqueName": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\Echo.csproj",
+      "projectName": "Echo",
+      "projectPath": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\Echo.csproj",
       "packagesPath": "C:\\Users\\ogkim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Scripts\\Echo\\EchoScripts\\obj\\",
+      "outputPath": "C:\\Users\\ogkim\\Desktop\\UnityProject\\Echo\\Echo\\Echo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
